@@ -1,0 +1,18 @@
+# Arquivos Ignorados
+# Pasta na raiz do workspace que não deve ser commitada
+../Arquivos Ignorados/
+Arquivos Ignorados/
+**/Arquivos Ignorados/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
